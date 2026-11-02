@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\bin\Debug\net8.0-windows\ilan oyunu.exe
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\bin\Debug\net8.0-windows\ilan oyunu.deps.json
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\bin\Debug\net8.0-windows\ilan oyunu.runtimeconfig.json
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\bin\Debug\net8.0-windows\ilan oyunu.dll
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\bin\Debug\net8.0-windows\ilan oyunu.pdb
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan_oyunu.Form1.resources
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.AssemblyInfo.cs
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.dll
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\refint\ilan oyunu.dll
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.pdb
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.genruntimeconfig.cache
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ref\ilan oyunu.dll
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan oyunu.csproj.Up2Date
+C:\Users\User\source\repos\ilan oyunu\ilan oyunu\obj\Debug\net8.0-windows\ilan_oyunu.Properties.Resources.resources
